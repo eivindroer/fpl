@@ -1,0 +1,30 @@
+h1 {
+    font-weight: bold;
+    font-size: 3rem;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+    background-color: #00ff87;
+    font-weight: bold;
+    color: #38003d;
+    text-align: center;
+}
+
+
+.navbar {
+    background-color: #38003d;
+    padding: 0;
+}
+
+.nav-item:hover {
+    background-color: #080009;
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.nav-link:hover {
+    color: #ffffff;
+}
